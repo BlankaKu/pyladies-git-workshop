@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#skyt soubor
+toto je muj novy soubor.txt
